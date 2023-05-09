@@ -20,7 +20,7 @@ items:
     image:
       src: /assets/img/contributors/jj.png
       alt: Jiang Jie
-    description: is currently a software developer in CGG Services (Singapore) Pte Ltd. His research interests include computer graphics especially computational geometry, 2D animation techniques and applications, drawing techniques, computer-assited design system. 
+    description: is currently a software developer in CGG Services (Singapore) Pte Ltd. He was previously a research student in Nanyang Technological University Singapore. His research interests include computer graphics especially computational geometry, 2D animation techniques and applications, drawing techniques, computer-assited design system. Besides, he has more than 8 years of experience of graphical application development.
 ---
 
 

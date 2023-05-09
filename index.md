@@ -1,16 +1,14 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/rtp_logo.png
+  src: /assets/img/wordcloud.png
   alt: website picture
 ---
 
-<p style="text-align:justify;">
-  RTP, Reactive Compound Transformation Profiler, can automatically analyse pre-annotated LC-MS datasets and uncover probable transformation products for reactive compounds. Our platform is designed and developed based on our <a href="#paper">RTP paper</a>.
-</p>
+# **About**
 
 <p style="text-align:justify;">
-  Please refer to the <a href="./downloads">download</a> page for the links to our application, source codes, and sample dataset.
+  RTP (Reactive Compound Transformation Profiler) can automatically analyse pre-annotated LC-MS datasets and uncover probable transformation products for reactive compounds. Our platform is designed and developed based on our <a href="#paper">RTP paper</a>. Please refer to the <a href="./downloads">download</a> page for the links to our application, source codes, and sample dataset.
 </p>
 
 # **Abstract**
