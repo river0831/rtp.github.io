@@ -104,7 +104,7 @@ Create (or edit) the `index.markdown` file and add the following:
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/rtp_logo.jpg
   alt: website picture
 ---
 
