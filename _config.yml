@@ -1,9 +1,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
+title: Reactive Compound Transformation Profiler
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
+  This is the webpage for RTP.
 baseurl:  "/rtp.github.io" # the subpath of the site
 url: "https://river0831.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/wordcloud.png
@@ -21,26 +21,18 @@ header:
 footer:
   show_powered_by: true
   contact:
-    - name: River
+    - name: Email
+      value: min.luna.liu@gmail.com
+      link: mailto:min.luna.liu@gmail.com
+    - name: Email
+      value: mlfang@fudan.edu.cn
+      link: mailto:mlfang@fudan.edu.cn
+    - name: Email
       value: jie.river.jiang@gmail.com
       link: mailto:jie.river.jiang@gmail.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+      link: https://github.com/river0831/RTP_QT
 
 # Build settings
 markdown: kramdown
