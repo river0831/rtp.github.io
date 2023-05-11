@@ -24,4 +24,4 @@ picking and adduct annotation, (2) core structure mass definition, (3) reaction 
 # **Paper**
 <p style="text-align:justify;" name="paper">Liu, M., Jiang, J., Zheng, J., Huan, T., Gao, B., Fei, X., ... & Fang, M. (2021). RTP: one effective platform to probe reactive compound transformation products and its applications for a reactive plasticizer BADGE. <i>Environmental Science & Technology</i>, 55(23), 16034-16043.</p>
 
-<p style="text-align:justify;"><a href="https://pubs.acs.org/doi/abs/10.1021/acs.est.1c05262">Online paper</a> &nbsp; <a href="https://pubs.acs.org/doi/10.1021/acs.est.1c05262?goto=supporting-info">Supporting Information</a></p>
+<p style="text-align:justify;"><a href="https://pubs.acs.org/doi/abs/10.1021/acs.est.1c05262">Online Paper</a> &nbsp; &nbsp; <a href="https://pubs.acs.org/doi/10.1021/acs.est.1c05262?goto=supporting-info">Supporting Information</a></p>

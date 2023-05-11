@@ -22,13 +22,13 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: min.luna.liu@gmail.com
+      value: Dr LIU Min (Research)
       link: mailto:min.luna.liu@gmail.com
     - name: Email
-      value: mlfang@fudan.edu.cn
+      value: Dr FANG Mingliang (Research)
       link: mailto:mlfang@fudan.edu.cn
     - name: Email
-      value: jie.river.jiang@gmail.com
+      value: Dr JIANG Jie (Software)
       link: mailto:jie.river.jiang@gmail.com
   follow:
     - name: GitHub
